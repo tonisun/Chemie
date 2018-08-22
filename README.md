@@ -1,3 +1,2 @@
 # Chemie
-Das ist ein Open Source Projekt.
-Enum als statischer Database benutzen.
+Das ist ein Open Source Projekt. Es wird Enum als statischer Database benutzt.
